@@ -1,5 +1,3 @@
-# App_cotacao_dolar
+# Project Title: Currency Exchange Rate Application
 
-## Aplicativo desenvolvido durante um curso de VBA na Udemy, chamado "Básico ao Avançado - O curso Completo de Macros e VBA Excel".
-
-O aplicativo desenvolvido em Excel realiza o Web Scraping de dados da cotação do dólar, a partir de linguagem VBA e retorna este em tempo real. Usa-se a funcionalidade UserForm para organizar os dados em uma tela para o usuário.
+# The Currency Exchange Rate Application was created as part of a VBA course on Udemy, named "Basic to Advanced - The Complete Course of Macros and VBA Excel." This Excel-based tool utilizes VBA for web scraping real-time dollar exchange rate data, which is then presented to the user. The application employs UserForm functionality to neatly organize the data within a user-friendly interface.
